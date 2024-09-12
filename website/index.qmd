@@ -1,4 +1,0 @@
----
-title: "Test website"
----
-Hi. this is a website used for class 2 of sta304
